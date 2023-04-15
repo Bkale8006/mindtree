@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-15T23:53:28 IST" name="Default suite" finished-at="2023-03-15T23:53:28 IST" duration-ms="212">
+    <groups>
+    </groups>
+    <test started-at="2023-03-15T23:53:28 IST" name="Default test" finished-at="2023-03-15T23:53:28 IST" duration-ms="212">
+      <class name="test_pkg.TestNG">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:test_pkg.TestNG@1622f1b]" started-at="2023-03-15T23:53:28 IST" name="beforeclass" finished-at="2023-03-15T23:53:28 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:test_pkg.TestNG@1622f1b]" started-at="2023-03-15T23:53:28 IST" name="beforemethod" finished-at="2023-03-15T23:53:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="t001()[pri:0, instance:test_pkg.TestNG@1622f1b]" started-at="2023-03-15T23:53:28 IST" name="t001" finished-at="2023-03-15T23:53:28 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t001 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:test_pkg.TestNG@1622f1b]" started-at="2023-03-15T23:53:28 IST" name="aftermethod" finished-at="2023-03-15T23:53:28 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:test_pkg.TestNG@1622f1b]" started-at="2023-03-15T23:53:28 IST" name="beforemethod" finished-at="2023-03-15T23:53:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="t002()[pri:0, instance:test_pkg.TestNG@1622f1b]" started-at="2023-03-15T23:53:28 IST" name="t002" finished-at="2023-03-15T23:53:28 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t002 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:test_pkg.TestNG@1622f1b]" started-at="2023-03-15T23:53:28 IST" name="aftermethod" finished-at="2023-03-15T23:53:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:test_pkg.TestNG@1622f1b]" started-at="2023-03-15T23:53:28 IST" name="beforemethod" finished-at="2023-03-15T23:53:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="t003()[pri:0, instance:test_pkg.TestNG@1622f1b]" started-at="2023-03-15T23:53:28 IST" name="t003" finished-at="2023-03-15T23:53:28 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t003 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:test_pkg.TestNG@1622f1b]" started-at="2023-03-15T23:53:28 IST" name="aftermethod" finished-at="2023-03-15T23:53:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:test_pkg.TestNG@1622f1b]" started-at="2023-03-15T23:53:28 IST" name="afterclass" finished-at="2023-03-15T23:53:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- test_pkg.TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
